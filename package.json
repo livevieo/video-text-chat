@@ -1,0 +1,14 @@
+{
+  "name": "videotextchat",
+  "version": "0.0.1",
+  "description": "Video text chat application",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "node-static": "latest",
+    "socket.io": "latest",
+    "express": "latest"
+  }
+}
